@@ -1,0 +1,6 @@
+{
+  "name": "CYFSA Navigator — Document Analyzer",
+  "description": "Ontario Child, Youth and Family Services Act (CYFSA) Legal Document Forensics & Evidentiary Analyzer providing structured Quick Document Review and Forensic In-Depth Analysis with interactive source traceability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
